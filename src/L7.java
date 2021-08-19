@@ -25,3 +25,4 @@ public class L7{
         System.out.println("The number rounded to 3 decimals is " + roundTo3.format(number));
     }
 }
+
