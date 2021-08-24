@@ -4,6 +4,8 @@ public class Average2 {
     */
     public static void main(String[] args) {
 
+
+
         int numOne = 20;
         int numTwo = 10;
         int sumTotal=numOne+numTwo;

@@ -1,4 +1,4 @@
-import java.text.DecimalFormat;  //importing the class from the package
+import java.text.DeMMcimalFormat;  //importing the class from the package
 
 public class L7{
 
